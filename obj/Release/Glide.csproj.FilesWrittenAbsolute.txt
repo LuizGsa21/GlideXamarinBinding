@@ -1,0 +1,7 @@
+/Users/thanhdat/ketquaviet/Glide/obj/Release/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/thanhdat/ketquaviet/Glide/obj/Release/Glide.Jars.glide-3.6.1.jar
+/Users/thanhdat/ketquaviet/Glide/bin/Release/GlideAssembly.dll.mdb
+/Users/thanhdat/ketquaviet/Glide/bin/Release/GlideAssembly.dll
+/Users/thanhdat/ketquaviet/Glide/obj/Release/GlideAssembly.dll
+/Users/thanhdat/ketquaviet/Glide/obj/Release/GlideAssembly.dll.mdb
+/Users/thanhdat/ketquaviet/Glide/bin/Release/Xamarin.Android.Support.v4.dll
