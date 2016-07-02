@@ -1,4 +1,4 @@
 # GlideXamarinBinding
-Glide Xamarin Binding.\n
+Glide Xamarin Binding.
 Android resource: https://github.com/bumptech/glide
     
